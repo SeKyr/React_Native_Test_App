@@ -9,5 +9,5 @@ cd android
 ```
 
 ```sh
-./gradlew clean assembleDebug
+./gradlew clean assembleRelease
 ```
